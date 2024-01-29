@@ -1,0 +1,4 @@
+0028
+Liza Simson
+650.000
+Python
